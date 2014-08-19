@@ -10,7 +10,7 @@ title:            JekyllTalk
 tagline:          'Blogging like a programmer'
 description:      ''
 url:              http://www.mumma.nu/jekyllTalk
-baseurl:          '/jekyllTalk'
+baseurl:          '/jekyllTalk/'
 paginate:         5
 
 author:
