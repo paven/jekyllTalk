@@ -11,7 +11,7 @@ tagline:          'Blogging like a programmer'
 description:      ''
 url:              http://www.mumma.nu/jekyllTalk
 baseurl:          '/jekyllTalk/'
-paginate:         5
+paginate:         1
 
 author:
   name:           'Patrik Gustafsson'
