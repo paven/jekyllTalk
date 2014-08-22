@@ -8,7 +8,7 @@ title: Templating
     title: Templating
     ---
     
-    {% include footer.html %}
+    {% raw %}{% include footer.html %}
 
     {% include footer.html param="value" %}
     
@@ -18,7 +18,7 @@ title: Templating
     
     {{ page.title }}
     
-    {% gist parkr/931c1c8d465a04042403 %}
+    {% gist parkr/931c1c8d465a04042403 %}{% endraw %}
     
 [layout post](https://raw.githubusercontent.com/paven/regin/gh-pages/_layouts/post.html)
 [layout default](https://raw.githubusercontent.com/paven/regin/gh-pages/_layouts/default.html)
