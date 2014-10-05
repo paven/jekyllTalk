@@ -3,30 +3,13 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+#Patrik Gustafsson
+[Patrik Gustafsson](se.linkedin.com/in/paven/) is passionate about education and hacking. He is a software developer at [Purple Scout](www.purplescout.se). He also has many years of experience as a teacher learning students to programming. It is Patrik's conviction that program is something that anyone can do, and have fun with. He also attends hacker meet-ups in the Gothenburg area and is one of the driving forces behind “Norsesund Hackerspace”.
 
-This page is used for a presentation on how to use jekyll.
+[webpage](http://www.mumma.nu), [linkedin](https://se.linkedin.com/in/paven/), [github](https://github.com/paven), [g+](https://plus.google.com/u/1/+PatrikGustafsson/posts), [twitter](https://twitter.com/paven)
 
-There are currently two themes built on Poole:
+#Blogging like a programmer
+Blogging tools are normally bloated and power demanding as well as web-administrated. This talk will step by step show how amazing and simple it can be to create and write to a powerful and lightweight blog. We will look at [a blogging platform](http://jekyllrb.com/) that allows you to write post locally and push changes to your server when you are ready. Blog post can be written with [a simple and beautiful format](http://daringfireball.net/projects/markdown/), easily [themed and templated](http://getpoole.com/) using web-standards. On top of this you blog can be backuped with your [favorite version control system](http://git-scm.com/) and [freely hosted](https://pages.github.com).
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
-
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+[talk source](https://github.com/paven/jekyllTalk), [markdown](http://daringfireball.net/projects/markdown/), [lanyon/poole](http://lanyon.getpoole.com), [jekyll](http://jekyllrb.com), [gitHub pages](https://pages.github.com)
