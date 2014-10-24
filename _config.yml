@@ -1,6 +1,10 @@
 # Dependencies
 markdown:         redcarpet
 pygments:         true
+highlighter:      pygments
+
+kramdown:
+  input: GFM
 
 # Permalinks
 permalink:        pretty
@@ -11,14 +15,22 @@ tagline:          'Blogging like a programmer'
 description:      ''
 url:              http://www.mumma.nu/jekyllTalk
 baseurl:          '/jekyllTalk/'
-paginate:         1
+paginate:         5
+paginate_path:    "blog/page:num"
+banner:           banner.jpg
 
 author:
-  name:           'Patrik Gustafsson'
-  url:            https://twitter.com/paven
+  name:           'Patrik'
+  url:            https://www.mumma.nu
 
 # Custom vars
 version:          1.0.0
 
 github:
   repo:           https://github.com/paven/jekyllTalk
+gems:
+- jekyll-mentions
+- jekyll-sitemap
+
+first_page:
+  url: inledning
