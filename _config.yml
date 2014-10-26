@@ -34,5 +34,4 @@ gems:
 - jekyll-mentions
 - jekyll-sitemap
 
-first_page:
-  url: inledning
+first_page:		  inledning
