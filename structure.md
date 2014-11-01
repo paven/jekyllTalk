@@ -1,6 +1,7 @@
 ---
-layout: post
-title: Jekyll Directory Structure
+layout: page
+title: Directory Structure
+next_page: powerful
 ---
 
 [Directory Structure](http://jekyllrb.com/docs/structure/)

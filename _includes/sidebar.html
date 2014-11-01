@@ -9,9 +9,7 @@
   </div>
 
   <nav class="sidebar-nav" id="toc">
-    {% capture this_url %} {{ site.firstpage }} {% end capture %}
-    {{ site.firstpage }} = {{ this_url }}
-    {% include navigation_item.html %}
+    {% include navigation_item.html url=site.first_page%}
   </nav>
 
   <div class="sidebar-item">

@@ -13,7 +13,21 @@
       {{ page.title }} &middot; {{ site.title }}
     {% endif %}
   </title>
-
+  <script src="//code.jquery.com/jquery-1.9.1.min.js">  </script>
+  <script src="{{ site.baseurl }}public/jquery.zoomooz.min.js">  </script>
+  <script>
+$(document).on('keydown', function (event) {
+    if (event.which == 37) {
+		//back;
+    } else if (event.which == 13) { //39
+		window.location = $('#next').attr('href');
+    }
+});
+$(document).ready(function() {
+	$("#content").zoomTo();
+});
+</script>
+  
   <!-- CSS -->
   <link rel="stylesheet" href="{{ site.baseurl }}public/css/poole.css">
   <link rel="stylesheet" href="{{ site.baseurl }}public/css/syntax.css">

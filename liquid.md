@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Liquid Templating
-next_page: lightweight
+next_page: more
 ---
 
     ---
